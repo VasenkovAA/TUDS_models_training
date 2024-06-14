@@ -1,0 +1,4 @@
+Test No	Accuracy	Precision	Recall	F1-score	ROC AUC
+0	0.8727	0.8640	0.8727	0.8600	
+1	0.8702	0.8571	0.8702	0.8550	
+2	0.8702	0.8571	0.8702	0.8550	
